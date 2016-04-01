@@ -9,3 +9,8 @@
 * It's being developed with the latest Go version (currently 1.6), but should work with (nearly) all other versions as well. 
 * No other dependencies needed, and should compile for nearly any architecture Go compiles to. 
 
+## Current status
+* A one-time sync of all Libraries is performed on start; it then shuts down.
+
+## Planned status
+* Keeping all those Libraries up-to-date, instead of periodically downloading the entire directory. 
