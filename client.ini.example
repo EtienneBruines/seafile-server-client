@@ -1,0 +1,5 @@
+[general]
+username = myself@example.com
+password = someVerySecurePassword
+url = https://www.seafile.com/api2/
+output = data
